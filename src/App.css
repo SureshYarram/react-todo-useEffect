@@ -1,0 +1,53 @@
+body {
+  background-image: url("https://cdn.wallpaperhub.app/cloudcache/c/3/b/e/9/e/c3be9e6e8950054edbfb0369725453fd55362150.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.inputdiv {
+  margin: auto;
+  height: 100px;
+  width: 400px;
+  margin-top: 100px;
+
+  border: 1px solid black;
+  background-color: rgb(197, 118, 118);
+}
+.inputdiv input {
+  height: 25%;
+  margin-left: 10%;
+}
+h3 {
+  margin-left: 30%;
+}
+
+.inputdiv button {
+  margin-left: 10%;
+  height: 30%;
+  background-color: royalblue;
+}
+.displaydiv {
+  height: 200px;
+  width: 400px;
+  margin-left: 35%;
+  margin-top: 20px;
+}
+.displaydiv > div {
+  color: white ;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+
+.buttondiv {
+  margin-left: 40%;
+  width: 300px;
+ 
+  
+}
+.buttondiv button {
+  width: 40%;
+  height: 30px;
+  margin-left:2%;
+  color: white;
+  background-color: blue;
+}
